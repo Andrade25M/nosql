@@ -1,0 +1,102 @@
+{
+  "funcionarios": [
+    {
+      "FuncionarioID": 1,
+      "Nome": "João Grilo",
+      "EnderecoID": 1,
+      "Cargo": "Contador",
+      "Jornada": 40,
+      "Salario": "R$ 3000,00"
+    },
+    {
+      "FuncionarioID": 2,
+      "Nome": "Ada Byron",
+      "EnderecoID": 2,
+      "Cargo": "Developer",
+      "Jornada": 20,
+      "Salario": "R$ 15000,00"
+    },
+    {
+      "FuncionarioID": 3,
+      "Nome": "Gerundino",
+      "EnderecoID": 3,
+      "Cargo": "Linguista",
+      "Jornada": 44,
+      "Salario": "R$ 8000,00"
+    },
+    {
+      "FuncionarioID": 4,
+      "Nome": "Chicó",
+      "EnderecoID": 4,
+      "Cargo": "Developer",
+      "Jornada": 20,
+      "Salario": "R$ 15000,00"
+    }
+  ],
+  "enderecos": [
+    {
+      "EnderecoID": 1,
+      "Rua": "Rua SUASSUNA",
+      "Numero": 30,
+      "Bairro": "Joao pessoa",
+      "Cidade": "Joao pessoa",
+      "Estado": "PB"
+    },
+    {
+      "EnderecoID": 2,
+      "Rua": "Rua lovelace",
+      "Numero": 67,
+      "Bairro": null,
+      "Cidade": "London",
+      "Estado": null
+    },
+    {
+      "EnderecoID": 3,
+      "Rua": "Rua substantivo",
+      "Numero": 78,
+      "Bairro": "bairro predicado",
+      "Cidade": "mesóclise-AC",
+      "Estado": null
+    },
+    {
+      "EnderecoID": 4,
+      "Rua": "Rua eurico",
+      "Numero": 50,
+      "Bairro": "joao pessoa",
+      "Cidade": "joao pessoa",
+      "Estado": "PB"
+    }
+  ],
+  "emails": [
+    {
+      "EmailID": 1,
+      "FuncionarioID": 1,
+      "Email": "grilo@mail.com"
+    },
+    {
+      "EmailID": 2,
+      "FuncionarioID": 1,
+      "Email": "joaog@mk.com"
+    },
+    {
+      "EmailID": 3,
+      "FuncionarioID": 2,
+      "Email": "ada@mail.com"
+    },
+    {
+      "EmailID": 4,
+      "FuncionarioID": 2,
+      "Email": "abyron@tech.com"
+    },
+    {
+      "EmailID": 5,
+      "FuncionarioID": 3,
+      "Email": "gerundino@gmail.com"
+    },
+    {
+      "EmailID": 6,
+      "FuncionarioID": 4,
+      "Email": null
+    }
+  ]
+}
